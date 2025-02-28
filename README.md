@@ -114,7 +114,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [React](https://reactjs.org/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Icons from [Lucide](https://lucide.dev/)
-
-## Contact
-
-Project Link: https://github.com/OmshriSawant/Sorting-Visualizer
